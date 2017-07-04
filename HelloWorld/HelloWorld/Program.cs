@@ -10,7 +10,7 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            //GitHub test master
+            //GitHub test
             Console.WriteLine("Hello World.");
             Console.ReadKey();
         }
